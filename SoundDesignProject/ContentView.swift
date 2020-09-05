@@ -8,11 +8,29 @@
 
 import SwiftUI
 
+//struct ContentView: View {
+//       var body: some View {
+//          
+//          AudioTestView()
+//       }
+//}
+
 struct ContentView: View {
-    var body: some View {
-        Text("Hello, World!")
-    }
+
+       @ObservedObject var userStats = UserStatusManager()
+
+       var body: some View {
+
+           Group {
+               if self.userStats.showOnboarding {
+                   OnboardingView(showOnboarding: self.$userStats.showOnboarding)
+               }else {
+                   MenuView()
+               }
+           }
+       }
 }
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

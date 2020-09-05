@@ -19,6 +19,29 @@
 		175718A32503B31100EF1241 /* StyleGuideShadows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1757189C2503B31100EF1241 /* StyleGuideShadows.swift */; };
 		175718A42503B31100EF1241 /* StyleGuideColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1757189D2503B31100EF1241 /* StyleGuideColors.swift */; };
 		175718A52503B31100EF1241 /* StyleGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1757189E2503B31100EF1241 /* StyleGuideView.swift */; };
+		175718AB2503B39100EF1241 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718AA2503B39100EF1241 /* ActivityIndicator.swift */; };
+		175718AF2503B39900EF1241 /* WebActiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718AC2503B39800EF1241 /* WebActiveView.swift */; };
+		175718B02503B39900EF1241 /* SignAppleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718AD2503B39900EF1241 /* SignAppleButton.swift */; };
+		175718B12503B39900EF1241 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718AE2503B39900EF1241 /* WebView.swift */; };
+		175718B32503B39D00EF1241 /* AnimatableSystemFontModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718B22503B39D00EF1241 /* AnimatableSystemFontModifier.swift */; };
+		175718B52503B3A500EF1241 /* UserStatusManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718B42503B3A500EF1241 /* UserStatusManager.swift */; };
+		175718B72503B3AB00EF1241 /* AudioTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718B62503B3AA00EF1241 /* AudioTestView.swift */; };
+		175718BB2503B3BD00EF1241 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 175718B82503B3BB00EF1241 /* Assets.xcassets */; };
+		175718BC2503B3BD00EF1241 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 175718B92503B3BC00EF1241 /* Media.xcassets */; };
+		175718BD2503B3BD00EF1241 /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = 175718BA2503B3BC00EF1241 /* sounds */; };
+		175718C52503B3EA00EF1241 /* SettingsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718C12503B3EA00EF1241 /* SettingsManager.swift */; };
+		175718C62503B3EA00EF1241 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718C22503B3EA00EF1241 /* SettingsView.swift */; };
+		175718C72503B3EA00EF1241 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718C32503B3EA00EF1241 /* SignUpView.swift */; };
+		175718C82503B3EA00EF1241 /* AccountManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718C42503B3EA00EF1241 /* AccountManager.swift */; };
+		175718CF2503B3F000EF1241 /* EmojiList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718C92503B3F000EF1241 /* EmojiList.swift */; };
+		175718D02503B3F000EF1241 /* EmojiDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718CA2503B3F000EF1241 /* EmojiDataModel.swift */; };
+		175718D12503B3F000EF1241 /* GameAppSuccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718CB2503B3F000EF1241 /* GameAppSuccess.swift */; };
+		175718D22503B3F000EF1241 /* AddNewEmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718CC2503B3F000EF1241 /* AddNewEmojiView.swift */; };
+		175718D32503B3F000EF1241 /* EmojiProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718CD2503B3F000EF1241 /* EmojiProfileView.swift */; };
+		175718D42503B3F000EF1241 /* CheckAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718CE2503B3F000EF1241 /* CheckAnimationView.swift */; };
+		175718D72503B3F700EF1241 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718D52503B3F700EF1241 /* OnboardingView.swift */; };
+		175718D82503B3F700EF1241 /* OnboardingContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718D62503B3F700EF1241 /* OnboardingContent.swift */; };
+		175718DA2503B3FB00EF1241 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175718D92503B3FB00EF1241 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +59,29 @@
 		1757189C2503B31100EF1241 /* StyleGuideShadows.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleGuideShadows.swift; sourceTree = "<group>"; };
 		1757189D2503B31100EF1241 /* StyleGuideColors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleGuideColors.swift; sourceTree = "<group>"; };
 		1757189E2503B31100EF1241 /* StyleGuideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleGuideView.swift; sourceTree = "<group>"; };
+		175718AA2503B39100EF1241 /* ActivityIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
+		175718AC2503B39800EF1241 /* WebActiveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebActiveView.swift; sourceTree = "<group>"; };
+		175718AD2503B39900EF1241 /* SignAppleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignAppleButton.swift; sourceTree = "<group>"; };
+		175718AE2503B39900EF1241 /* WebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		175718B22503B39D00EF1241 /* AnimatableSystemFontModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatableSystemFontModifier.swift; sourceTree = "<group>"; };
+		175718B42503B3A500EF1241 /* UserStatusManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserStatusManager.swift; sourceTree = "<group>"; };
+		175718B62503B3AA00EF1241 /* AudioTestView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioTestView.swift; sourceTree = "<group>"; };
+		175718B82503B3BB00EF1241 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		175718B92503B3BC00EF1241 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		175718BA2503B3BC00EF1241 /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
+		175718C12503B3EA00EF1241 /* SettingsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsManager.swift; sourceTree = "<group>"; };
+		175718C22503B3EA00EF1241 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		175718C32503B3EA00EF1241 /* SignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		175718C42503B3EA00EF1241 /* AccountManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountManager.swift; sourceTree = "<group>"; };
+		175718C92503B3F000EF1241 /* EmojiList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiList.swift; sourceTree = "<group>"; };
+		175718CA2503B3F000EF1241 /* EmojiDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiDataModel.swift; sourceTree = "<group>"; };
+		175718CB2503B3F000EF1241 /* GameAppSuccess.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameAppSuccess.swift; sourceTree = "<group>"; };
+		175718CC2503B3F000EF1241 /* AddNewEmojiView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNewEmojiView.swift; sourceTree = "<group>"; };
+		175718CD2503B3F000EF1241 /* EmojiProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiProfileView.swift; sourceTree = "<group>"; };
+		175718CE2503B3F000EF1241 /* CheckAnimationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckAnimationView.swift; sourceTree = "<group>"; };
+		175718D52503B3F700EF1241 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		175718D62503B3F700EF1241 /* OnboardingContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingContent.swift; sourceTree = "<group>"; };
+		175718D92503B3FB00EF1241 /* MenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,7 +138,11 @@
 		175718942503B2DB00EF1241 /* helper */ = {
 			isa = PBXGroup;
 			children = (
+				175718A82503B37600EF1241 /* navigation managment */,
+				175718A72503B36B00EF1241 /* animation */,
+				175718A62503B36200EF1241 /* integration */,
 				175718972503B30800EF1241 /* style guide */,
+				175718A92503B38300EF1241 /* sound guide */,
 			);
 			path = helper;
 			sourceTree = "<group>";
@@ -100,6 +150,10 @@
 		175718952503B2E700EF1241 /* use cases */ = {
 			isa = PBXGroup;
 			children = (
+				175718D92503B3FB00EF1241 /* MenuView.swift */,
+				175718C02503B3E000EF1241 /* Onboarding */,
+				175718BF2503B3D700EF1241 /* EmojiListView */,
+				175718BE2503B3CE00EF1241 /* settings */,
 			);
 			path = "use cases";
 			sourceTree = "<group>";
@@ -107,6 +161,9 @@
 		175718962503B2F400EF1241 /* assets */ = {
 			isa = PBXGroup;
 			children = (
+				175718B82503B3BB00EF1241 /* Assets.xcassets */,
+				175718B92503B3BC00EF1241 /* Media.xcassets */,
+				175718BA2503B3BC00EF1241 /* sounds */,
 			);
 			path = assets;
 			sourceTree = "<group>";
@@ -123,6 +180,74 @@
 				1757189E2503B31100EF1241 /* StyleGuideView.swift */,
 			);
 			path = "style guide";
+			sourceTree = "<group>";
+		};
+		175718A62503B36200EF1241 /* integration */ = {
+			isa = PBXGroup;
+			children = (
+				175718AA2503B39100EF1241 /* ActivityIndicator.swift */,
+				175718AD2503B39900EF1241 /* SignAppleButton.swift */,
+				175718AC2503B39800EF1241 /* WebActiveView.swift */,
+				175718AE2503B39900EF1241 /* WebView.swift */,
+			);
+			path = integration;
+			sourceTree = "<group>";
+		};
+		175718A72503B36B00EF1241 /* animation */ = {
+			isa = PBXGroup;
+			children = (
+				175718B22503B39D00EF1241 /* AnimatableSystemFontModifier.swift */,
+			);
+			path = animation;
+			sourceTree = "<group>";
+		};
+		175718A82503B37600EF1241 /* navigation managment */ = {
+			isa = PBXGroup;
+			children = (
+				175718B42503B3A500EF1241 /* UserStatusManager.swift */,
+			);
+			path = "navigation managment";
+			sourceTree = "<group>";
+		};
+		175718A92503B38300EF1241 /* sound guide */ = {
+			isa = PBXGroup;
+			children = (
+				175718B62503B3AA00EF1241 /* AudioTestView.swift */,
+			);
+			path = "sound guide";
+			sourceTree = "<group>";
+		};
+		175718BE2503B3CE00EF1241 /* settings */ = {
+			isa = PBXGroup;
+			children = (
+				175718C22503B3EA00EF1241 /* SettingsView.swift */,
+				175718C12503B3EA00EF1241 /* SettingsManager.swift */,
+				175718C32503B3EA00EF1241 /* SignUpView.swift */,
+				175718C42503B3EA00EF1241 /* AccountManager.swift */,
+			);
+			path = settings;
+			sourceTree = "<group>";
+		};
+		175718BF2503B3D700EF1241 /* EmojiListView */ = {
+			isa = PBXGroup;
+			children = (
+				175718CC2503B3F000EF1241 /* AddNewEmojiView.swift */,
+				175718CE2503B3F000EF1241 /* CheckAnimationView.swift */,
+				175718CA2503B3F000EF1241 /* EmojiDataModel.swift */,
+				175718C92503B3F000EF1241 /* EmojiList.swift */,
+				175718CD2503B3F000EF1241 /* EmojiProfileView.swift */,
+				175718CB2503B3F000EF1241 /* GameAppSuccess.swift */,
+			);
+			path = EmojiListView;
+			sourceTree = "<group>";
+		};
+		175718C02503B3E000EF1241 /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				175718D52503B3F700EF1241 /* OnboardingView.swift */,
+				175718D62503B3F700EF1241 /* OnboardingContent.swift */,
+			);
+			path = Onboarding;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -183,7 +308,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				175718BD2503B3BD00EF1241 /* sounds in Resources */,
 				1757188D2503B1DA00EF1241 /* LaunchScreen.storyboard in Resources */,
+				175718BB2503B3BD00EF1241 /* Assets.xcassets in Resources */,
+				175718BC2503B3BD00EF1241 /* Media.xcassets in Resources */,
 				1757188A2503B1DA00EF1241 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -195,16 +323,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				175718D02503B3F000EF1241 /* EmojiDataModel.swift in Sources */,
+				175718B52503B3A500EF1241 /* UserStatusManager.swift in Sources */,
+				175718B02503B39900EF1241 /* SignAppleButton.swift in Sources */,
+				175718D42503B3F000EF1241 /* CheckAnimationView.swift in Sources */,
+				175718B72503B3AB00EF1241 /* AudioTestView.swift in Sources */,
 				175718A02503B31100EF1241 /* StyleGuideCard.swift in Sources */,
 				175718A52503B31100EF1241 /* StyleGuideView.swift in Sources */,
 				175718812503B1DA00EF1241 /* AppDelegate.swift in Sources */,
 				175718A32503B31100EF1241 /* StyleGuideShadows.swift in Sources */,
 				175718A22503B31100EF1241 /* StyleGuideToggle.swift in Sources */,
+				175718CF2503B3F000EF1241 /* EmojiList.swift in Sources */,
+				175718C82503B3EA00EF1241 /* AccountManager.swift in Sources */,
+				175718C52503B3EA00EF1241 /* SettingsManager.swift in Sources */,
+				175718D72503B3F700EF1241 /* OnboardingView.swift in Sources */,
+				175718AB2503B39100EF1241 /* ActivityIndicator.swift in Sources */,
 				175718832503B1DA00EF1241 /* SceneDelegate.swift in Sources */,
 				175718852503B1DA00EF1241 /* ContentView.swift in Sources */,
 				175718A42503B31100EF1241 /* StyleGuideColors.swift in Sources */,
+				175718D22503B3F000EF1241 /* AddNewEmojiView.swift in Sources */,
 				175718A12503B31100EF1241 /* StyleGuideButtons.swift in Sources */,
 				1757189F2503B31100EF1241 /* StyleGuideTypography.swift in Sources */,
+				175718AF2503B39900EF1241 /* WebActiveView.swift in Sources */,
+				175718D12503B3F000EF1241 /* GameAppSuccess.swift in Sources */,
+				175718D82503B3F700EF1241 /* OnboardingContent.swift in Sources */,
+				175718C72503B3EA00EF1241 /* SignUpView.swift in Sources */,
+				175718DA2503B3FB00EF1241 /* MenuView.swift in Sources */,
+				175718B32503B39D00EF1241 /* AnimatableSystemFontModifier.swift in Sources */,
+				175718B12503B39900EF1241 /* WebView.swift in Sources */,
+				175718C62503B3EA00EF1241 /* SettingsView.swift in Sources */,
+				175718D32503B3F000EF1241 /* EmojiProfileView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
